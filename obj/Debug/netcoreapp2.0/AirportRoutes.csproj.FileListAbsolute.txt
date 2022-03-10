@@ -1,0 +1,23 @@
+C:/Users/Seth/Documents/trent/3020/AirportRoutes/obj/Debug/netcoreapp2.0/AirportRoutes.csprojAssemblyReference.cache
+C:/Users/Seth/Documents/trent/3020/AirportRoutes/obj/Debug/netcoreapp2.0/AirportRoutes.csproj.CoreCompileInputs.cache
+C:/Users/Seth/Documents/trent/3020/AirportRoutes/obj/Debug/netcoreapp2.0/AirportRoutes.AssemblyInfoInputs.cache
+C:/Users/Seth/Documents/trent/3020/AirportRoutes/obj/Debug/netcoreapp2.0/AirportRoutes.AssemblyInfo.cs
+C:/Users/Seth/Documents/trent/3020/AirportRoutes/bin/Debug/netcoreapp2.0/AirportRoutes.deps.json
+C:/Users/Seth/Documents/trent/3020/AirportRoutes/bin/Debug/netcoreapp2.0/AirportRoutes.runtimeconfig.json
+C:/Users/Seth/Documents/trent/3020/AirportRoutes/bin/Debug/netcoreapp2.0/AirportRoutes.runtimeconfig.dev.json
+C:/Users/Seth/Documents/trent/3020/AirportRoutes/bin/Debug/netcoreapp2.0/AirportRoutes.dll
+C:/Users/Seth/Documents/trent/3020/AirportRoutes/bin/Debug/netcoreapp2.0/AirportRoutes.pdb
+C:/Users/Seth/Documents/trent/3020/AirportRoutes/obj/Debug/netcoreapp2.0/AirportRoutes.dll
+C:/Users/Seth/Documents/trent/3020/AirportRoutes/obj/Debug/netcoreapp2.0/AirportRoutes.pdb
+/home/seth/Documents/Trent university/COIS3020 Data Structures and Algorithms 2/AirportRoutes/bin/Debug/netcoreapp2.0/AirportRoutes.deps.json
+/home/seth/Documents/Trent university/COIS3020 Data Structures and Algorithms 2/AirportRoutes/bin/Debug/netcoreapp2.0/AirportRoutes.runtimeconfig.json
+/home/seth/Documents/Trent university/COIS3020 Data Structures and Algorithms 2/AirportRoutes/bin/Debug/netcoreapp2.0/AirportRoutes.runtimeconfig.dev.json
+/home/seth/Documents/Trent university/COIS3020 Data Structures and Algorithms 2/AirportRoutes/bin/Debug/netcoreapp2.0/AirportRoutes.dll
+/home/seth/Documents/Trent university/COIS3020 Data Structures and Algorithms 2/AirportRoutes/bin/Debug/netcoreapp2.0/AirportRoutes.pdb
+/home/seth/Documents/Trent university/COIS3020 Data Structures and Algorithms 2/AirportRoutes/obj/Debug/netcoreapp2.0/AirportRoutes.csprojAssemblyReference.cache
+/home/seth/Documents/Trent university/COIS3020 Data Structures and Algorithms 2/AirportRoutes/obj/Debug/netcoreapp2.0/AirportRoutes.AssemblyInfoInputs.cache
+/home/seth/Documents/Trent university/COIS3020 Data Structures and Algorithms 2/AirportRoutes/obj/Debug/netcoreapp2.0/AirportRoutes.AssemblyInfo.cs
+/home/seth/Documents/Trent university/COIS3020 Data Structures and Algorithms 2/AirportRoutes/obj/Debug/netcoreapp2.0/AirportRoutes.csproj.CoreCompileInputs.cache
+/home/seth/Documents/Trent university/COIS3020 Data Structures and Algorithms 2/AirportRoutes/obj/Debug/netcoreapp2.0/AirportRoutes.dll
+/home/seth/Documents/Trent university/COIS3020 Data Structures and Algorithms 2/AirportRoutes/obj/Debug/netcoreapp2.0/AirportRoutes.pdb
+/home/seth/Documents/Trent university/COIS3020 Data Structures and Algorithms 2/AirportRoutes/obj/Debug/netcoreapp2.0/AirportRoutes.genruntimeconfig.cache
